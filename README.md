@@ -13,8 +13,8 @@ The player controls their character using the arrow keys. Lead your character pa
 
 ## Attributions
 
-With help from Ryan Waite's Tutorial<br>
-https://www.youtube.com/watch?v=XEVnMgYblGc<br>
-and collision detection blogpost<br>
+With help from Ryan Waite's Tutorial
+https://www.youtube.com/watch?v=XEVnMgYblGc
+and collision detection blog post
 http://blog.sklambert.com/html5-canvas-game-2d-collision-detection#d-collision-detection
 
