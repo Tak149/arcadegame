@@ -57,7 +57,7 @@ class playerChar {
 
     update() {
         for(let enemy of allEnemies) {
-            if(this.x < enemy.x +80 && enemy.x < this.x + 80 && this.y == enemy.y) {
+            if(this.x < enemy.x + 75 && enemy.x < this.x + 75 && this.y == enemy.y) {
                 this.x = this.xStart;
                 this.y = this.yStart;
             }
